@@ -2,6 +2,7 @@
   "name": "nbdevchien/hello-world",
   "description": "the first composer package",
   "type": "php",
+  "license": "MIT",
   "authors": [
     {
       "name": "chien",
